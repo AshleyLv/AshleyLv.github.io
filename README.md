@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Baby Pets Funny Faces
+# Baby Animals Funny Faces Game
 
 The make-a-face sticker pack everybody loves! Install it on your devices and have fun at any time. Equip pets with imagination! Different looks, infinite FUN!
 
