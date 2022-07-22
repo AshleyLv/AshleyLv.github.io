@@ -1,10 +1,10 @@
-# TwigFun Educational Apps
+# TwigFun Educational & Recreational Apps
 
-Our mission is to create best educational apps for toddlers and people who loves learning of all ages and enable them to acquire knowledge from fun games on portable devices.
+We are creating best educational and recreational games on mobile devices for young and old.
 
 ## Have Fun with us
 
-Move your fingers and touch on the screen to make it possible to learn various of concepts, language and skills you or your kids need.  
+Move your fingers and touch on the screen to make it possible to learn various of concepts, language and skills you need.  
 
 Rich quantity brings more fun! Our designers and developers never stop thinking and coming up with good ideas of improving the user experience.
 
