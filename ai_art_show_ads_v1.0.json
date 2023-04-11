@@ -1,5 +1,5 @@
 {
-  "Ios":false,
+  "Ios":true,
   "Android":false,
   "isPermit":true,
   "isDBUsed":true,
