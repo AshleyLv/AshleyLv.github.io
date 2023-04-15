@@ -1,4 +1,4 @@
 {
-  "Ios":false,
-  "Android":false
+  "Ios":true,
+  "Android":true
 }
