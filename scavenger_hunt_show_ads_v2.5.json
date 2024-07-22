@@ -1,6 +1,6 @@
 {
   "Ios":true,
-  "Android":false,
+  "Android":true,
   "scene0level0":100,
   "scene0level1":11,
   "scene0level2":9,
